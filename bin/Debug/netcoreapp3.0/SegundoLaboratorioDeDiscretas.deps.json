@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SegundoLaboratorioDeDiscretas/1.0.0": {
+        "dependencies": {
+          "StigSchmidtNielsson.Extensions.IEnumerable": "0.1.4"
+        },
+        "runtime": {
+          "SegundoLaboratorioDeDiscretas.dll": {}
+        }
+      },
+      "StigSchmidtNielsson.Extensions.IEnumerable/0.1.4": {
+        "runtime": {
+          "lib/net40-client/StigSchmidtNielsson.Extensions.IEnumerable.dll": {
+            "assemblyVersion": "0.1.4.29570",
+            "fileVersion": "0.1.4.29570"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SegundoLaboratorioDeDiscretas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StigSchmidtNielsson.Extensions.IEnumerable/0.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-At00l1dcuI9sHMANyfMZ+Xc9UqvSIsLiRN93LIwotJOuZegdd0QB+iA8SHy0kOaXE20Pd50ICxoF5ZVAAkywvQ==",
+      "path": "stigschmidtnielsson.extensions.ienumerable/0.1.4",
+      "hashPath": "stigschmidtnielsson.extensions.ienumerable.0.1.4.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\bin\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.exe
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\obj\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\obj\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\obj\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.AssemblyInfo.cs
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\bin\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.deps.json
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\bin\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.runtimeconfig.json
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\bin\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.runtimeconfig.dev.json
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\bin\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.dll
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\bin\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.pdb
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\bin\Debug\netcoreapp3.0\StigSchmidtNielsson.Extensions.IEnumerable.dll
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\obj\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.csproj.CopyComplete
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\obj\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.dll
+C:\Users\juanp\source\repos\SegundoLaboratorioDeDiscretas\obj\Debug\netcoreapp3.0\SegundoLaboratorioDeDiscretas.pdb

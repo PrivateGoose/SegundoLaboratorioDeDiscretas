@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "StigSchmidtNielsson.Extensions.IEnumerable/0.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40-client/StigSchmidtNielsson.Extensions.IEnumerable.dll": {}
+        },
+        "runtime": {
+          "lib/net40-client/StigSchmidtNielsson.Extensions.IEnumerable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StigSchmidtNielsson.Extensions.IEnumerable/0.1.4": {
+      "sha512": "At00l1dcuI9sHMANyfMZ+Xc9UqvSIsLiRN93LIwotJOuZegdd0QB+iA8SHy0kOaXE20Pd50ICxoF5ZVAAkywvQ==",
+      "type": "package",
+      "path": "stigschmidtnielsson.extensions.ienumerable/0.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40-client/StigSchmidtNielsson.Extensions.IEnumerable.dll",
+        "stigschmidtnielsson.extensions.ienumerable.0.1.4.nupkg.sha512",
+        "stigschmidtnielsson.extensions.ienumerable.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "StigSchmidtNielsson.Extensions.IEnumerable >= 0.1.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\juanp\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\juanp\\source\\repos\\SegundoLaboratorioDeDiscretas\\SegundoLaboratorioDeDiscretas.csproj",
+      "projectName": "SegundoLaboratorioDeDiscretas",
+      "projectPath": "C:\\Users\\juanp\\source\\repos\\SegundoLaboratorioDeDiscretas\\SegundoLaboratorioDeDiscretas.csproj",
+      "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juanp\\source\\repos\\SegundoLaboratorioDeDiscretas\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "StigSchmidtNielsson.Extensions.IEnumerable": {
+            "target": "Package",
+            "version": "[0.1.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'StigSchmidtNielsson.Extensions.IEnumerable 0.1.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "StigSchmidtNielsson.Extensions.IEnumerable",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}
